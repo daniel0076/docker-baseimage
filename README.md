@@ -4,6 +4,9 @@
 This is a docker baseimage that can be used to create containers for any
 long-lived application.
 
+This is a fork from [jlesage/baseimage](https://hub.docker.com/r/jlesage/baseimage),
+and modified to support of ubuntu 20.04 aarch64.
+
 ## Table of Content
 
    * [A minimal docker baseimage to ease creation of long-lived application containers](#a-minimal-docker-baseimage-to-ease-creation-of-long-lived-application-containers)
